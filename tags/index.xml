@@ -5,6 +5,31 @@
         <link>https://ailogue.win/tags/</link>
         <description>Recent content in Tags on Ailogue💬</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://ailogue.win/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailogue.win/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>ChatGPT</title>
+        <link>https://ailogue.win/tags/chatgpt/</link>
+        <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ailogue.win/tags/chatgpt/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>GPT-3.5</title>
+        <link>https://ailogue.win/tags/gpt-3.5/</link>
+        <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ailogue.win/tags/gpt-3.5/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>中文</title>
+        <link>https://ailogue.win/tags/%E4%B8%AD%E6%96%87/</link>
+        <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://ailogue.win/tags/%E4%B8%AD%E6%96%87/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

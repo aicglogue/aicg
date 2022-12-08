@@ -11,19 +11,25 @@
     <loc>https://ailogue.win/categories/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://ailogue.win/tags/chatgpt/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ailogue.win/categories/chatgpt/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailogue.win/post/chatgpt%E4%BC%9A%E5%8F%96%E4%BB%A3%E8%B0%B7%E6%AD%8C%E5%90%97/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailogue.win/categories/gpt-3.5/</loc>
+    <loc>https://ailogue.win/tags/gpt-3.5/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailogue.win/post/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailogue.win/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://ailogue.win/tags/</loc>
+    <lastmod>2022-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ailogue.win/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailogue.win/post/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%BC%9A%E6%94%AF%E9%85%8D%E4%BA%BA%E7%B1%BB%E5%90%97/</loc>
@@ -41,14 +47,12 @@
     <loc>https://ailogue.win/post/%E6%88%91%E4%BB%AC%E8%AF%A5%E5%A6%82%E4%BD%95%E8%BF%87%E5%A5%BD%E8%BF%99%E4%B8%80%E7%94%9F%E5%91%A2/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailogue.win/page/archives/</loc>
+    <loc>https://ailogue.win/archives/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ailogue.win/page/</loc>
     <lastmod>2022-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ailogue.win/page/search/</loc>
-  </url><url>
-    <loc>https://ailogue.win/tags/</loc>
+    <loc>https://ailogue.win/search/</loc>
   </url>
 </urlset>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Ailogue💬</title>
-        <link>https://ailogue.win/</link>
-        <description>Recent content on Ailogue💬</description>
+        <title>ChatGPT on Ailogue💬</title>
+        <link>https://ailogue.win/tags/chatgpt/</link>
+        <description>Recent content in ChatGPT on Ailogue💬</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailogue.win/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ailogue.win/tags/chatgpt/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>ChatGPT会取代谷歌吗?</title>
         <link>https://ailogue.win/post/chatgpt%E4%BC%9A%E5%8F%96%E4%BB%A3%E8%B0%B7%E6%AD%8C%E5%90%97/</link>
         <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
@@ -80,22 +80,6 @@
 &lt;li&gt;关注家庭和友情。家庭和友情是人生中最重要的东西，要与家人和朋友保持良好的关系，多多照顾家人，与朋友分享快乐。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
-        </item>
-        <item>
-        <title>Archives</title>
-        <link>https://ailogue.win/archives/</link>
-        <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://ailogue.win/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>https://ailogue.win/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://ailogue.win/search/</guid>
-        <description></description>
         </item>
         
     </channel>
